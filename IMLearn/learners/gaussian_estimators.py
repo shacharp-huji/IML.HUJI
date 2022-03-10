@@ -1,6 +1,5 @@
 from __future__ import annotations
 import numpy as np
-# change 3
 from numpy.linalg import inv, det, slogdet
 
 
